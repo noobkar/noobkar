@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @noobkar
+- 👋 Hi, I’m @amroidDev
 - 👀 I’m interested in ...Learning Android Development
 - 🌱 I’m currently learning ...Android Development
 - 💞️ I’m looking to collaborate on ...Android Development with latest technologies
