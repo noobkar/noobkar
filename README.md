@@ -1,10 +1,35 @@
-- 👋 Hi, I’m @androidDev
-- 👀 I’m interested in ...Learning Android Development
-- 🌱 I’m currently learning ...Android Development
-- 💞️ I’m looking to collaborate on ...Android Development with latest technologies
-- 📫 How to reach me ...zaveenm@gmail.com
+# 👋 Hi, I'm @androidDev
+
+### About Me
+👨‍💻 Full-stack Mobile & Backend Developer passionate about crafting robust, scalable solutions
+
+### Tech Stack
+#### Mobile Development
+- 📱 Android: Kotlin, Jetpack Compose, MVVM, Coroutines
+- 🍎 iOS: Swift, SwiftUI, UIKit, Combine
+
+#### Backend Development
+- 💎 Ruby: Rails, Sinatra, RSpec
+- 🚂 Nakogiri for XML/HTML processing
+- 🦀 Rust: Actix-web, Tokio, Rocket
+- 🔧 RESTful APIs & GraphQL
+
+### Current Focus
+- 🌱 Exploring Rust for high-performance systems
+- 💫 Building cross-platform mobile solutions
+- 🔄 Implementing CI/CD pipelines
+- 🎯 Performance optimization & scalability
+
+### Looking to Collaborate
+- 📱 Mobile apps using modern architecture patterns
+- ⚡ High-performance backend services
+- 🛠️ Developer tools and utilities
+- 🔐 Security-focused applications
+
+### Contact
+- 📫 Email: zaveenm@gmail.com
+- 💼 Open for interesting project discussions and collaborations
 
 <!---
-noobkar/noobkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+noobkar/noobkar is a ✨ special ✨ repository
 --->
