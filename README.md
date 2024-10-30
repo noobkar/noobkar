@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @androidDev
+# 👋 Hi, I'm @Amjid
 
 ### About Me
 👨‍💻 Full-stack Mobile & Backend Developer passionate about crafting robust, scalable solutions
