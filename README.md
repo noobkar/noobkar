@@ -1,35 +1,91 @@
-# 👋 Hi, I'm @Amjid
+Hi, I'm Amjid
+About Me
 
-### About Me
-👨‍💻 Full-stack Mobile & Backend Developer passionate about crafting robust, scalable solutions
+Full-stack Mobile and Backend Developer focused on building scalable, high-performance applications with modern architectures and clean code practices.
 
-### Tech Stack
-#### Mobile Development
-- 📱 Android: Kotlin, Jetpack Compose, MVVM, Coroutines
-- 🍎 iOS: Swift, SwiftUI, UIKit, Combine
+Core Expertise
+Mobile Development
 
-#### Backend Development
-- 💎 Ruby: Rails, Sinatra, RSpec
-- 🚂 Nakogiri for XML/HTML processing
-- 🦀 Rust: Actix-web, Tokio, Rocket
-- 🔧 RESTful APIs & GraphQL
+Android Development
 
-### Current Focus
-- 🌱 Exploring Rust for high-performance systems
-- 💫 Building cross-platform mobile solutions
-- 🔄 Implementing CI/CD pipelines
-- 🎯 Performance optimization & scalability
+Kotlin (advanced)
 
-### Looking to Collaborate
-- 📱 Mobile apps using modern architecture patterns
-- ⚡ High-performance backend services
-- 🛠️ Developer tools and utilities
-- 🔐 Security-focused applications
+Jetpack Compose (modern declarative UI)
 
-### Contact
-- 📫 Email: zaveenm@gmail.com
-- 💼 Open for interesting project discussions and collaborations
+MVVM, Clean Architecture
 
-<!---
-noobkar/noobkar is a ✨ special ✨ repository
---->
+Coroutines & Flow
+
+Dependency Injection (Hilt / Dagger)
+
+Modularization & scalable app structure
+
+Performance optimization and app security
+
+iOS Development
+
+Swift (modern concurrency, async/await)
+
+SwiftUI (declarative UI architecture)
+
+UIKit (legacy & hybrid apps)
+
+Combine framework
+
+MVVM & Clean Architecture
+
+App performance tuning and secure coding practices
+
+Backend Development
+
+Ruby (Rails, Sinatra, RSpec)
+
+Nokogiri for XML/HTML processing
+
+Rust (Actix-web, Tokio, Rocket)
+
+RESTful APIs & GraphQL
+
+High-performance backend systems
+
+Secure API architecture
+
+Development Philosophy
+
+Clean, maintainable, scalable architecture
+
+Performance-first mindset
+
+Security-focused implementation
+
+CI/CD and automated workflows
+
+Test-driven and modular development
+
+Current Focus
+
+Advanced Jetpack Compose patterns and scalable Android architectures
+
+SwiftUI-first iOS applications
+
+Rust for high-performance backend systems
+
+Cross-platform mobile solutions
+
+Vibe Coding — building intuitive, immersive, and emotionally engaging digital experiences
+
+Open to Collaborate On
+
+Modern Android (Kotlin + Jetpack Compose) applications
+
+iOS apps built with SwiftUI
+
+High-performance backend services (Ruby or Rust)
+
+Developer tools and automation systems
+
+Security-focused applications
+
+Contact
+
+Email: zaveenm@gmail.com
