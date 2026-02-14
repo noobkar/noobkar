@@ -1,91 +1,56 @@
-Hi, I'm Amjid
-About Me
 
-Full-stack Mobile and Backend Developer focused on building scalable, high-performance applications with modern architectures and clean code practices.
 
-Core Expertise
-Mobile Development
+# Amjid Afridi
 
-Android Development
+**Mobile & Backend Engineer | Kotlin • Jetpack Compose • SwiftUI • Rust**
 
-Kotlin (advanced)
+---
 
-Jetpack Compose (modern declarative UI)
+## Profile
 
-MVVM, Clean Architecture
+Full-stack engineer specializing in modern mobile architecture and high-performance backend systems.
+I build scalable, secure, and production-ready applications using Kotlin (Jetpack Compose) and Swift (SwiftUI), backed by robust APIs in Ruby and Rust.
 
-Coroutines & Flow
+Focused on clean architecture, performance optimization, and maintainable codebases designed for long-term growth.
 
-Dependency Injection (Hilt / Dagger)
+---
 
-Modularization & scalable app structure
+## Technical Expertise
 
-Performance optimization and app security
+### Android Engineering
 
-iOS Development
+* Kotlin (Advanced, Coroutines, Flow)
+* Jetpack Compose (State management, Navigation, Theming, Performance)
+* MVVM & Clean Architecture
+* Modularization strategies
+* Hilt / Dependency Injection
+* Offline-first architecture
+* Secure Android development
 
-Swift (modern concurrency, async/await)
+### iOS Engineering
 
-SwiftUI (declarative UI architecture)
+* Swift (async/await, structured concurrency)
+* SwiftUI (state-driven UI, scalable architecture)
+* Combine
+* MVVM & Clean Architecture
+* Performance optimization
+* Hybrid UIKit + SwiftUI integration
 
-UIKit (legacy & hybrid apps)
+### Backend Systems
 
-Combine framework
+* Ruby on Rails, Sinatra
+* Rust (Actix-web, Tokio, Rocket)
+* RESTful API design
+* GraphQL APIs
+* Authentication & security best practices
+* Scalable backend architecture
 
-MVVM & Clean Architecture
+---
 
-App performance tuning and secure coding practices
 
-Backend Development
+## Contact
 
-Ruby (Rails, Sinatra, RSpec)
+Email: [zaveenm@gmail.com](mailto:zaveenm@gmail.com)
+Open to collaboration, consulting, and product development opportunities.
 
-Nokogiri for XML/HTML processing
-
-Rust (Actix-web, Tokio, Rocket)
-
-RESTful APIs & GraphQL
-
-High-performance backend systems
-
-Secure API architecture
-
-Development Philosophy
-
-Clean, maintainable, scalable architecture
-
-Performance-first mindset
-
-Security-focused implementation
-
-CI/CD and automated workflows
-
-Test-driven and modular development
-
-Current Focus
-
-Advanced Jetpack Compose patterns and scalable Android architectures
-
-SwiftUI-first iOS applications
-
-Rust for high-performance backend systems
-
-Cross-platform mobile solutions
-
-Vibe Coding — building intuitive, immersive, and emotionally engaging digital experiences
-
-Open to Collaborate On
-
-Modern Android (Kotlin + Jetpack Compose) applications
-
-iOS apps built with SwiftUI
-
-High-performance backend services (Ruby or Rust)
-
-Developer tools and automation systems
-
-Security-focused applications
-
-Contact
-
-Email: zaveenm@gmail.com
+---
